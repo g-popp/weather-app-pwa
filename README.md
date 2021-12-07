@@ -1,5 +1,7 @@
 # WeatherApp
 
+##Firebase Hosting URL: https://weather-app-b7421.web.app/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.13.
 
 ## Development server
