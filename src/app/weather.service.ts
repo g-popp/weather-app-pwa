@@ -12,7 +12,7 @@ export class WeatherService {
 
   getWeather(city: string): Observable<Weather> {
     const options = new HttpParams()
-      .set('units', 'metrics')
+      .set('units', 'metric')
       .set('q', city)
       .set('appId', environment.apiKey);
 
