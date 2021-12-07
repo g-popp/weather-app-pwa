@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "weather-app-b7421": {
+      "hosting": {
+        "weather-app": [
+          "weather-app-b7421"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "weather-app-b7421"
+  }
+}
